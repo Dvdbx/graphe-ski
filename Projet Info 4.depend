@@ -1,0 +1,1527 @@
+# depslib dependency file v1.0
+1617619512 source:c:\users\sudav\desktop\projet info 4\projet info 4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+	"borne.h"
+
+1617619907 source:c:\users\sudav\desktop\projet info 4\projet info 4\point.cpp
+	"Point.h"
+
+1617619952 source:c:\users\sudav\desktop\projet info 4\projet info 4\station.cpp
+	"Station.h"
+
+1617619907 source:c:\users\sudav\desktop\projet info 4\projet info 4\trajet.cpp
+	"Trajet.h"
+
+1617554498 c:\users\sudav\desktop\projet info 4\projet info 4\trajet.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"Point.h"
+
+1617617675 c:\users\sudav\desktop\projet info 4\projet info 4\point.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"Trajet.h"
+
+1617617675 c:\users\sudav\desktop\projet info 4\projet info 4\station.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	"Point.h"
+	"Trajet.h"
+
+1618069237 source:d:\ing2\semestre 4\théorie des graphes\projet\projet-piscine\projet info 4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+	"borne.h"
+
+1617989611 d:\ing2\semestre 4\théorie des graphes\projet\projet-piscine\projet info 4\trajet.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"utilitaire.h"
+	"Point.h"
+
+1617954265 d:\ing2\semestre 4\théorie des graphes\projet\projet-piscine\projet info 4\point.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"Trajet.h"
+	"utilitaire.h"
+
+1618069946 d:\ing2\semestre 4\théorie des graphes\projet\projet-piscine\projet info 4\station.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<set>
+	"Point.h"
+	"Trajet.h"
+
+1617967179 source:d:\ing2\semestre 4\théorie des graphes\projet\projet-piscine\projet info 4\point.cpp
+	"Point.h"
+
+1618069933 source:d:\ing2\semestre 4\théorie des graphes\projet\projet-piscine\projet info 4\station.cpp
+	"Station.h"
+	"borne.h"
+	<windows.h>
+
+1617989611 source:d:\ing2\semestre 4\théorie des graphes\projet\projet-piscine\projet info 4\trajet.cpp
+	"Trajet.h"
+
+1617725054 source:c:\users\sudav\desktop\projet-piscine\projet info 4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+	"borne.h"
+
+1617654170 c:\users\sudav\desktop\projet-piscine\projet info 4\trajet.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"utilitaire.h"
+	"Point.h"
+
+1617727290 c:\users\sudav\desktop\projet-piscine\projet info 4\point.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"Trajet.h"
+	"utilitaire.h"
+
+1617719966 c:\users\sudav\desktop\projet-piscine\projet info 4\station.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	"Point.h"
+	"Trajet.h"
+
+1617727290 source:c:\users\sudav\desktop\projet-piscine\projet info 4\point.cpp
+	"Point.h"
+
+1617739686 source:c:\users\sudav\desktop\projet-piscine\projet info 4\station.cpp
+	"Station.h"
+	"borne.h"
+	<windows.h>
+
+1617699056 source:c:\users\sudav\desktop\projet-piscine\projet info 4\trajet.cpp
+	"Trajet.h"
+
+1618081614 source:c:\users\zarga\onedrive\bureau\projet-piscine\projet info 4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+	"borne.h"
+
+1618081613 c:\users\zarga\onedrive\bureau\projet-piscine\projet info 4\trajet.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"utilitaire.h"
+	"Point.h"
+
+1618081613 c:\users\zarga\onedrive\bureau\projet-piscine\projet info 4\point.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"Trajet.h"
+	"utilitaire.h"
+
+1618082242 c:\users\zarga\onedrive\bureau\projet-piscine\projet info 4\station.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<set>
+	"Point.h"
+	"Trajet.h"
+
+1618081613 source:c:\users\zarga\onedrive\bureau\projet-piscine\projet info 4\point.cpp
+	"Point.h"
+
+1618082812 source:c:\users\zarga\onedrive\bureau\projet-piscine\projet info 4\station.cpp
+	"Station.h"
+	"borne.h"
+	<windows.h>
+
+1617988875 source:c:\users\zarga\onedrive\bureau\projet-piscine\projet info 4\trajet.cpp
+	"Trajet.h"
+
+1618085282 source:c:\users\zarga\onedrive\bureau\projet-piscine\projet info 4\borne.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"borne.h"
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+	<vector>
+
+1618085100 c:\users\zarga\onedrive\bureau\projet-piscine\projet info 4\borne.h
+	"utilitaire.h"
+	"Station.h"
+
+1617617779 source:c:\users\sudav\desktop\projet info 4\projet info 4\borne.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"borne.h"
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+
+1617615918 c:\users\sudav\desktop\projet info 4\projet info 4\borne.h
+	"Station.h"
+
+1617732332 source:c:\users\sudav\desktop\projet-piscine\projet info 4\borne.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"borne.h"
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+
+1617732332 c:\users\sudav\desktop\projet-piscine\projet info 4\borne.h
+	"utilitaire.h"
+	"Station.h"
+
+1617700245 source:c:\users\sudav\desktop\projet info 4-copie\projet info 4\borne.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"borne.h"
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+
+1617633195 c:\users\sudav\desktop\projet info 4-copie\projet info 4\borne.h
+	"utilitaire.h"
+	"Station.h"
+
+1617652173 c:\users\sudav\desktop\projet info 4-copie\projet info 4\station.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	"Point.h"
+	"Trajet.h"
+
+1617699218 c:\users\sudav\desktop\projet info 4-copie\projet info 4\point.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"Trajet.h"
+	"utilitaire.h"
+
+1617649641 c:\users\sudav\desktop\projet info 4-copie\projet info 4\trajet.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"utilitaire.h"
+	"Point.h"
+
+1617699427 source:c:\users\sudav\desktop\projet info 4-copie\projet info 4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+	"borne.h"
+
+1617657713 source:c:\users\sudav\desktop\projet info 4-copie\projet info 4\point.cpp
+	"Point.h"
+
+1617700146 source:c:\users\sudav\desktop\projet info 4-copie\projet info 4\station.cpp
+	"Station.h"
+	"borne.h"
+	<windows.h>
+
+1617657713 source:c:\users\sudav\desktop\projet info 4-copie\projet info 4\trajet.cpp
+	"Trajet.h"
+
+1617633228 c:\users\sudav\desktop\projet info 4-copie\projet info 4\utilitaire.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1617633195 source:c:\users\sudav\desktop\projet info 4-copie\projet info 4\utilitaire.cpp
+	"utilitaire.h"
+
+1617636008 source:d:\ing2\semestre 4\théorie des graphes\projet\clone\delpistes\projet-piscine\projet info 4\borne.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"borne.h"
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+
+1617636008 d:\ing2\semestre 4\théorie des graphes\projet\clone\delpistes\projet-piscine\projet info 4\borne.h
+	"utilitaire.h"
+	"Station.h"
+
+1617636008 d:\ing2\semestre 4\théorie des graphes\projet\clone\delpistes\projet-piscine\projet info 4\utilitaire.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1617636213 d:\ing2\semestre 4\théorie des graphes\projet\clone\delpistes\projet-piscine\projet info 4\station.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	"Point.h"
+	"Trajet.h"
+
+1617636276 d:\ing2\semestre 4\théorie des graphes\projet\clone\delpistes\projet-piscine\projet info 4\point.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"Trajet.h"
+	"utilitaire.h"
+
+1617639035 d:\ing2\semestre 4\théorie des graphes\projet\clone\delpistes\projet-piscine\projet info 4\trajet.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"utilitaire.h"
+	"Point.h"
+
+1617639924 source:d:\ing2\semestre 4\théorie des graphes\projet\clone\delpistes\projet-piscine\projet info 4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+	"borne.h"
+
+1617636359 source:d:\ing2\semestre 4\théorie des graphes\projet\clone\delpistes\projet-piscine\projet info 4\point.cpp
+	"Point.h"
+
+1617639887 source:d:\ing2\semestre 4\théorie des graphes\projet\clone\delpistes\projet-piscine\projet info 4\station.cpp
+	"Station.h"
+	"borne.h"
+	<windows.h>
+
+1617639375 source:d:\ing2\semestre 4\théorie des graphes\projet\clone\delpistes\projet-piscine\projet info 4\trajet.cpp
+	"Trajet.h"
+
+1617636008 source:d:\ing2\semestre 4\théorie des graphes\projet\clone\delpistes\projet-piscine\projet info 4\utilitaire.cpp
+	"utilitaire.h"
+
+1617657003 source:c:\users\sudav\desktop\projet optimisation\borne.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"borne.h"
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+
+1617633195 c:\users\sudav\desktop\projet optimisation\borne.h
+	"utilitaire.h"
+	"Station.h"
+
+1617633228 c:\users\sudav\desktop\projet optimisation\utilitaire.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1617652173 c:\users\sudav\desktop\projet optimisation\station.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	"Point.h"
+	"Trajet.h"
+
+1617647693 c:\users\sudav\desktop\projet optimisation\point.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"Trajet.h"
+	"utilitaire.h"
+
+1617649641 c:\users\sudav\desktop\projet optimisation\trajet.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"utilitaire.h"
+	"Point.h"
+
+1617655633 source:c:\users\sudav\desktop\projet optimisation\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+	"borne.h"
+
+1617657713 source:c:\users\sudav\desktop\projet optimisation\point.cpp
+	"Point.h"
+
+1617657713 source:c:\users\sudav\desktop\projet optimisation\trajet.cpp
+	"Trajet.h"
+
+1617633195 source:c:\users\sudav\desktop\projet optimisation\utilitaire.cpp
+	"utilitaire.h"
+
+1617657713 source:c:\users\sudav\desktop\projet optimisation\station.cpp
+	"Station.h"
+	"borne.h"
+	<windows.h>
+
+1617653945 source:d:\ing2\semestre 4\théorie des graphes\projet\clone\pb regler\test 2\projet optimisation\borne.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"borne.h"
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+
+1617633195 d:\ing2\semestre 4\théorie des graphes\projet\clone\pb regler\test 2\projet optimisation\borne.h
+	"utilitaire.h"
+	"Station.h"
+
+1617633228 d:\ing2\semestre 4\théorie des graphes\projet\clone\pb regler\test 2\projet optimisation\utilitaire.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1617652173 d:\ing2\semestre 4\théorie des graphes\projet\clone\pb regler\test 2\projet optimisation\station.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	"Point.h"
+	"Trajet.h"
+
+1617647693 d:\ing2\semestre 4\théorie des graphes\projet\clone\pb regler\test 2\projet optimisation\point.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"Trajet.h"
+	"utilitaire.h"
+
+1617649641 d:\ing2\semestre 4\théorie des graphes\projet\clone\pb regler\test 2\projet optimisation\trajet.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"utilitaire.h"
+	"Point.h"
+
+1617652988 source:d:\ing2\semestre 4\théorie des graphes\projet\clone\pb regler\test 2\projet optimisation\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+	"borne.h"
+
+1617640298 source:d:\ing2\semestre 4\théorie des graphes\projet\clone\pb regler\test 2\projet optimisation\point.cpp
+	"Point.h"
+
+1617653706 source:d:\ing2\semestre 4\théorie des graphes\projet\clone\pb regler\test 2\projet optimisation\station.cpp
+	"Station.h"
+	"borne.h"
+	<windows.h>
+
+1617652759 source:d:\ing2\semestre 4\théorie des graphes\projet\clone\pb regler\test 2\projet optimisation\trajet.cpp
+	"Trajet.h"
+
+1617633195 source:d:\ing2\semestre 4\théorie des graphes\projet\clone\pb regler\test 2\projet optimisation\utilitaire.cpp
+	"utilitaire.h"
+
+1618070798 source:d:\ing2\semestre 4\théorie des graphes\projet\projet-piscine\projet info 4\borne.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"borne.h"
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+	<vector>
+
+1618069237 d:\ing2\semestre 4\théorie des graphes\projet\projet-piscine\projet info 4\borne.h
+	"utilitaire.h"
+	"Station.h"
+
+1617971058 d:\ing2\semestre 4\théorie des graphes\projet\projet-piscine\projet info 4\utilitaire.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1617971058 source:d:\ing2\semestre 4\théorie des graphes\projet\projet-piscine\projet info 4\utilitaire.cpp
+	"utilitaire.h"
+
+1618081010 source:c:\users\sudav\desktop\projet info 4\borne.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"borne.h"
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+	<vector>
+
+1618077652 c:\users\sudav\desktop\projet info 4\borne.h
+	"utilitaire.h"
+	"Station.h"
+
+1617978650 c:\users\sudav\desktop\projet info 4\utilitaire.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1618080702 c:\users\sudav\desktop\projet info 4\station.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<set>
+	"Point.h"
+	"Trajet.h"
+
+1618078897 c:\users\sudav\desktop\projet info 4\point.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"Trajet.h"
+	"utilitaire.h"
+
+1618078022 c:\users\sudav\desktop\projet info 4\trajet.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"utilitaire.h"
+	"Point.h"
+
+1618080010 source:c:\users\sudav\desktop\projet info 4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+	"borne.h"
+
+1618078960 source:c:\users\sudav\desktop\projet info 4\point.cpp
+	"Point.h"
+
+1618080919 source:c:\users\sudav\desktop\projet info 4\station.cpp
+	"Station.h"
+	"borne.h"
+	<windows.h>
+
+1617982541 source:c:\users\sudav\desktop\projet info 4\trajet.cpp
+	"Trajet.h"
+
+1617978650 source:c:\users\sudav\desktop\projet info 4\utilitaire.cpp
+	"utilitaire.h"
+
+1617711879 source:c:\users\valen\desktop\projet info 4\borne.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"borne.h"
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+
+1617699041 c:\users\valen\desktop\projet info 4\borne.h
+	"utilitaire.h"
+	"Station.h"
+
+1617699041 c:\users\valen\desktop\projet info 4\utilitaire.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1617717908 c:\users\valen\desktop\projet info 4\station.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	"Point.h"
+	"Trajet.h"
+
+1617711879 c:\users\valen\desktop\projet info 4\point.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"Trajet.h"
+	"utilitaire.h"
+
+1617699041 c:\users\valen\desktop\projet info 4\trajet.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"utilitaire.h"
+	"Point.h"
+
+1617720631 source:c:\users\valen\desktop\projet info 4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+	"borne.h"
+
+1617699041 source:c:\users\valen\desktop\projet info 4\point.cpp
+	"Point.h"
+
+1617718549 source:c:\users\valen\desktop\projet info 4\station.cpp
+	"Station.h"
+	"borne.h"
+	<windows.h>
+
+1617699041 source:c:\users\valen\desktop\projet info 4\trajet.cpp
+	"Trajet.h"
+
+1617699041 source:c:\users\valen\desktop\projet info 4\utilitaire.cpp
+	"utilitaire.h"
+
+1617956123 source:c:\users\zarga\onedrive\bureau\projet-piscine - copie (3)\projet info 4\borne.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"borne.h"
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+
+1617956123 c:\users\zarga\onedrive\bureau\projet-piscine - copie (3)\projet info 4\borne.h
+	"utilitaire.h"
+	"Station.h"
+
+1617639531 c:\users\zarga\onedrive\bureau\projet-piscine - copie (3)\projet info 4\utilitaire.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1617954171 c:\users\zarga\onedrive\bureau\projet-piscine - copie (3)\projet info 4\station.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<set>
+	"Point.h"
+	"Trajet.h"
+
+1617954171 c:\users\zarga\onedrive\bureau\projet-piscine - copie (3)\projet info 4\point.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"Trajet.h"
+	"utilitaire.h"
+
+1617795512 c:\users\zarga\onedrive\bureau\projet-piscine - copie (3)\projet info 4\trajet.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"utilitaire.h"
+	"Point.h"
+
+1617954525 source:c:\users\zarga\onedrive\bureau\projet-piscine - copie (3)\projet info 4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+	"borne.h"
+
+1617954171 source:c:\users\zarga\onedrive\bureau\projet-piscine - copie (3)\projet info 4\point.cpp
+	"Point.h"
+
+1617955932 source:c:\users\zarga\onedrive\bureau\projet-piscine - copie (3)\projet info 4\station.cpp
+	"Station.h"
+	"borne.h"
+	<windows.h>
+
+1617954171 source:c:\users\zarga\onedrive\bureau\projet-piscine - copie (3)\projet info 4\trajet.cpp
+	"Trajet.h"
+
+1617639531 source:c:\users\zarga\onedrive\bureau\projet-piscine - copie (3)\projet info 4\utilitaire.cpp
+	"utilitaire.h"
+
+1617700506 source:c:\users\sudav\desktop\projet-piscine - copie (3)\projet info 4\borne.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"borne.h"
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+
+1617639532 c:\users\sudav\desktop\projet-piscine - copie (3)\projet info 4\borne.h
+	"utilitaire.h"
+	"Station.h"
+
+1617639532 c:\users\sudav\desktop\projet-piscine - copie (3)\projet info 4\utilitaire.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1617719966 c:\users\sudav\desktop\projet-piscine - copie (3)\projet info 4\station.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	"Point.h"
+	"Trajet.h"
+
+1617700506 c:\users\sudav\desktop\projet-piscine - copie (3)\projet info 4\point.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"Trajet.h"
+	"utilitaire.h"
+
+1617654170 c:\users\sudav\desktop\projet-piscine - copie (3)\projet info 4\trajet.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"utilitaire.h"
+	"Point.h"
+
+1617725054 source:c:\users\sudav\desktop\projet-piscine - copie (3)\projet info 4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+	"borne.h"
+
+1617654170 source:c:\users\sudav\desktop\projet-piscine - copie (3)\projet info 4\point.cpp
+	"Point.h"
+
+1617719966 source:c:\users\sudav\desktop\projet-piscine - copie (3)\projet info 4\station.cpp
+	"Station.h"
+	"borne.h"
+	<windows.h>
+
+1617699056 source:c:\users\sudav\desktop\projet-piscine - copie (3)\projet info 4\trajet.cpp
+	"Trajet.h"
+
+1617639532 source:c:\users\sudav\desktop\projet-piscine - copie (3)\projet info 4\utilitaire.cpp
+	"utilitaire.h"
+
+1618090412 source:c:\users\sudav\desktop\projet-info 4 - copie\projet info 4\borne.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"borne.h"
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+	<vector>
+
+1618089772 c:\users\sudav\desktop\projet-info 4 - copie\projet info 4\borne.h
+	"utilitaire.h"
+	"Station.h"
+
+1617978650 c:\users\sudav\desktop\projet-info 4 - copie\projet info 4\utilitaire.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1618088977 c:\users\sudav\desktop\projet-info 4 - copie\projet info 4\station.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<set>
+	"Point.h"
+	"Trajet.h"
+
+1618078897 c:\users\sudav\desktop\projet-info 4 - copie\projet info 4\point.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"Trajet.h"
+	"utilitaire.h"
+
+1618078022 c:\users\sudav\desktop\projet-info 4 - copie\projet info 4\trajet.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"utilitaire.h"
+	"Point.h"
+
+1618080010 source:c:\users\sudav\desktop\projet-info 4 - copie\projet info 4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+	"borne.h"
+
+1618090201 source:c:\users\sudav\desktop\projet-info 4 - copie\projet info 4\station.cpp
+	"Station.h"
+	"borne.h"
+	<windows.h>
+
+1617982541 source:c:\users\sudav\desktop\projet-info 4 - copie\projet info 4\trajet.cpp
+	"Trajet.h"
+
+1617978650 source:c:\users\sudav\desktop\projet-info 4 - copie\projet info 4\utilitaire.cpp
+	"utilitaire.h"
+
+1618078960 source:c:\users\sudav\desktop\projet-info 4 - copie\projet info 4\point.cpp
+	"Point.h"
+
+1617970788 c:\users\zarga\onedrive\bureau\projet-piscine\projet info 4\utilitaire.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1617970809 source:c:\users\zarga\onedrive\bureau\projet-piscine\projet info 4\utilitaire.cpp
+	"utilitaire.h"
+
+1617639532 c:\users\sudav\desktop\projet-piscine\projet info 4\utilitaire.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1617639532 source:c:\users\sudav\desktop\projet-piscine\projet info 4\utilitaire.cpp
+	"utilitaire.h"
+
+1617975787 source:d:\ing2\semestre 4\théorie des graphes\projet\090421-2\projet info 4\borne.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"borne.h"
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+	<vector>
+
+1617973937 d:\ing2\semestre 4\théorie des graphes\projet\090421-2\projet info 4\borne.h
+	"utilitaire.h"
+	"Station.h"
+
+1617971058 d:\ing2\semestre 4\théorie des graphes\projet\090421-2\projet info 4\utilitaire.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1617954265 d:\ing2\semestre 4\théorie des graphes\projet\090421-2\projet info 4\station.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<set>
+	"Point.h"
+	"Trajet.h"
+
+1617954265 d:\ing2\semestre 4\théorie des graphes\projet\090421-2\projet info 4\point.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"Trajet.h"
+	"utilitaire.h"
+
+1617967179 d:\ing2\semestre 4\théorie des graphes\projet\090421-2\projet info 4\trajet.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"utilitaire.h"
+	"Point.h"
+
+1617967179 source:d:\ing2\semestre 4\théorie des graphes\projet\090421-2\projet info 4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+	"borne.h"
+
+1617967179 source:d:\ing2\semestre 4\théorie des graphes\projet\090421-2\projet info 4\point.cpp
+	"Point.h"
+
+1617975629 source:d:\ing2\semestre 4\théorie des graphes\projet\090421-2\projet info 4\station.cpp
+	"Station.h"
+	"borne.h"
+	<windows.h>
+
+1617954265 source:d:\ing2\semestre 4\théorie des graphes\projet\090421-2\projet info 4\trajet.cpp
+	"Trajet.h"
+
+1617971058 source:d:\ing2\semestre 4\théorie des graphes\projet\090421-2\projet info 4\utilitaire.cpp
+	"utilitaire.h"
+
+1618078207 c:\users\sudav\desktop\projet info 4\mycompare.h
+
+1618092343 source:c:\users\zarga\onedrive\bureau\projet-piscine - copie (10)\projet info 4\borne.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"borne.h"
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+	<vector>
+
+1618090914 c:\users\zarga\onedrive\bureau\projet-piscine - copie (10)\projet info 4\borne.h
+	"utilitaire.h"
+	"Station.h"
+
+1617970788 c:\users\zarga\onedrive\bureau\projet-piscine - copie (10)\projet info 4\utilitaire.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1618090914 c:\users\zarga\onedrive\bureau\projet-piscine - copie (10)\projet info 4\station.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<set>
+	"Point.h"
+	"Trajet.h"
+
+1618081613 c:\users\zarga\onedrive\bureau\projet-piscine - copie (10)\projet info 4\point.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"Trajet.h"
+	"utilitaire.h"
+
+1618081613 c:\users\zarga\onedrive\bureau\projet-piscine - copie (10)\projet info 4\trajet.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"utilitaire.h"
+	"Point.h"
+
+1618081614 source:c:\users\zarga\onedrive\bureau\projet-piscine - copie (10)\projet info 4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+	"borne.h"
+
+1618081613 source:c:\users\zarga\onedrive\bureau\projet-piscine - copie (10)\projet info 4\point.cpp
+	"Point.h"
+
+1618091507 source:c:\users\zarga\onedrive\bureau\projet-piscine - copie (10)\projet info 4\station.cpp
+	"Station.h"
+	"borne.h"
+	<windows.h>
+
+1617988875 source:c:\users\zarga\onedrive\bureau\projet-piscine - copie (10)\projet info 4\trajet.cpp
+	"Trajet.h"
+
+1617970809 source:c:\users\zarga\onedrive\bureau\projet-piscine - copie (10)\projet info 4\utilitaire.cpp
+	"utilitaire.h"
+
+1618138584 source:d:\ing2\semestre 4\théorie des graphes\projet\110421\projet info 4\borne.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"borne.h"
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+	<vector>
+
+1618091206 d:\ing2\semestre 4\théorie des graphes\projet\110421\projet info 4\borne.h
+	"utilitaire.h"
+	"Station.h"
+
+1617971058 d:\ing2\semestre 4\théorie des graphes\projet\110421\projet info 4\utilitaire.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1618139642 d:\ing2\semestre 4\théorie des graphes\projet\110421\projet info 4\station.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<set>
+	"Point.h"
+	"Trajet.h"
+
+1618087058 d:\ing2\semestre 4\théorie des graphes\projet\110421\projet info 4\point.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"Trajet.h"
+	"utilitaire.h"
+
+1618087058 d:\ing2\semestre 4\théorie des graphes\projet\110421\projet info 4\trajet.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"utilitaire.h"
+	"Point.h"
+
+1618139551 source:d:\ing2\semestre 4\théorie des graphes\projet\110421\projet info 4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+	"borne.h"
+
+1618087058 source:d:\ing2\semestre 4\théorie des graphes\projet\110421\projet info 4\point.cpp
+	"Point.h"
+
+1618139630 source:d:\ing2\semestre 4\théorie des graphes\projet\110421\projet info 4\station.cpp
+	"Station.h"
+	"borne.h"
+	<windows.h>
+
+1617989611 source:d:\ing2\semestre 4\théorie des graphes\projet\110421\projet info 4\trajet.cpp
+	"Trajet.h"
+
+1617971058 source:d:\ing2\semestre 4\théorie des graphes\projet\110421\projet info 4\utilitaire.cpp
+	"utilitaire.h"
+
+1618142764 source:c:\users\sudav\desktop\ecole\ing2\théorie des graphes\projet-piscine\projet info 4\borne.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"borne.h"
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+	<vector>
+
+1618086172 c:\users\sudav\desktop\ecole\ing2\théorie des graphes\projet-piscine\projet info 4\borne.h
+	"utilitaire.h"
+	"Station.h"
+
+1617975050 c:\users\sudav\desktop\ecole\ing2\théorie des graphes\projet-piscine\projet info 4\utilitaire.h
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<string>
+
+1618142764 c:\users\sudav\desktop\ecole\ing2\théorie des graphes\projet-piscine\projet info 4\station.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<set>
+	"Point.h"
+	"Trajet.h"
+
+1618075297 c:\users\sudav\desktop\ecole\ing2\théorie des graphes\projet-piscine\projet info 4\point.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"Trajet.h"
+	"utilitaire.h"
+
+1618074422 c:\users\sudav\desktop\ecole\ing2\théorie des graphes\projet-piscine\projet info 4\trajet.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+	"utilitaire.h"
+	"Point.h"
+
+1618142764 source:c:\users\sudav\desktop\ecole\ing2\théorie des graphes\projet-piscine\projet info 4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<algorithm>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	"Trajet.h"
+	"Point.h"
+	"Station.h"
+	"borne.h"
+
+1618075360 source:c:\users\sudav\desktop\ecole\ing2\théorie des graphes\projet-piscine\projet info 4\point.cpp
+	"Point.h"
+
+1618142764 source:c:\users\sudav\desktop\ecole\ing2\théorie des graphes\projet-piscine\projet info 4\station.cpp
+	"Station.h"
+	"borne.h"
+	<windows.h>
+
+1617978941 source:c:\users\sudav\desktop\ecole\ing2\théorie des graphes\projet-piscine\projet info 4\trajet.cpp
+	"Trajet.h"
+
+1617975050 source:c:\users\sudav\desktop\ecole\ing2\théorie des graphes\projet-piscine\projet info 4\utilitaire.cpp
+	"utilitaire.h"
+

@@ -1,0 +1,30 @@
+12
+1	villaroger	1200
+2	2	1425
+3	3	2135
+4	4	2458
+5	aiguille-rouge	3226
+6	0	0
+7	0	0
+8	pre-saint-esprit	1822
+9	9	2120
+10	10	2015
+11	11	2195
+12	12	2670
+16
+2	aiguille-rouge1	N	5	4	15.36	400
+3	aiguille-rouge2	N	4	3	6.46	400
+4	aiguille-rouge3	N	3	2	14.2	400
+6	arandeliere	R	5	12	16.68	900
+17	cascade	B	10	8	7.72	600
+36	dou-de-l-homme	N	12	11	9.5	400
+50	lanches	N	12	9	11	400
+54	marmottes	B	11	10	7.2	600
+73	rhonaz	B	3	8	12.52	600
+75	saint-jacques	TS	9	11	4	1800
+77	soliet1	R	4	3	9.69	900
+78	soliet2	R	3	2	21.3	900
+79	soliet3	R	2	1	6.75	900
+88	vallee-de-l-arc	R	11	10	5.4	900
+93	villaroger1	B	8	2	15.88	600
+94	villaroger2	B	2	1	9	600
